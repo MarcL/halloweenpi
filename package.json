@@ -9,9 +9,8 @@
   "author": "Marc Littlemore",
   "license": "MIT",
   "dependencies": {
-    "johnny-five": "^0.9.1",
     "lame": "^1.2.3",
-    "raspi-io": "^5.0.0",
+    "onoff": "^1.0.3",
     "speaker": "^0.2.6"
   }
 }
