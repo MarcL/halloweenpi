@@ -10,7 +10,11 @@ Clone the project and install the node modules with:
 
 # Usage
 
-The breadboard should be setup in the same way as the [onoff module](https://www.npmjs.com/package/onoff). This expects the button to be on Gpio 4 and the LED on Gpio 14. This can be altered in `index.js` to your own needs. Alter the `soundFiles` array in `index.js` to add new sound effects to to trigger. These are currently triggered randomly when the button is pressed.
+The breadboard should be setup in the same way as the [onoff module](https://www.npmjs.com/package/onoff). This expects the button to be on Gpio 4 and the LED on Gpio 14. This can be altered in `index.js` to your own needs.
+
+![OnOff Breadboard](https://raw.githubusercontent.com/fivdi/onoff/master/examples/light-switch.png)
+
+Alter the `soundFiles` array in `index.js` to add new sound effects to to trigger. These are currently triggered randomly when the button is pressed.
 
 Run the project with `npm start`.
 
