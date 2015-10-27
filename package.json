@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Marc Littlemore",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.9.1",
+    "lame": "^1.2.3",
+    "raspi-io": "^5.0.0",
+    "speaker": "^0.2.6"
+  }
 }
