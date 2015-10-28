@@ -13,5 +13,9 @@
     "lame": "^1.2.3",
     "onoff": "^1.0.3",
     "speaker": "^0.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MarcL/halloweenpi.git"
   }
 }
