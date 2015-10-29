@@ -17,8 +17,8 @@ module.exports = {
         './assets/glados-come-over-here.mp3'
 	],
 	buttonGpio: 4,
-	ledGpio: 14,
     leds: [
-        14
+        14,
+        15
     ]
 };
