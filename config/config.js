@@ -1,5 +1,5 @@
 module.exports = {
-	soundFiles: [
+    soundFiles: [
 		'./assets/cuckoo-clock.mp3',
         './assets/foghorn-doorbell.mp3',
         './assets/ghost-scream.mp3',
@@ -17,5 +17,8 @@ module.exports = {
         './assets/glados-come-over-here.mp3'
 	],
 	buttonGpio: 4,
-	ledGpio: 14
+	ledGpio: 14,
+    leds: [
+        14
+    ]
 };
