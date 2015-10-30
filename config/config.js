@@ -19,6 +19,8 @@ module.exports = {
 	buttonGpio: 4,
     leds: [
         14,
-        15
+        15,
+        18,
+        23
     ]
 };
