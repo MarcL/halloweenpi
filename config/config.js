@@ -16,12 +16,5 @@ module.exports = {
         './assets/glados-laugh.mp3',
         './assets/glados-come-over-here.mp3',
         './assets/dalek-exterminate.mp3'
-	],
-	buttonGpio: 4,
-    leds: [
-        14,
-        15,
-        18,
-        23
-    ]
+	]
 };
